@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR5i0008/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5i0008/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上老君說常清靜真經
+  date: '2015-08-29 17:48:28.488223'
+  source:
+    repository: kanripo
+    path: KR5i0008
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0008_001-YP-C.yaml, hash: 'sha256:d35b9d89c998e9c21d450d134df97c78bab36d54c63cc95c1e131b51b58a1378'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0008_001-YP-C.markers.yaml, hash: 'sha256:2c6d6e9202b8dac89fdbaf2fdaede762525a05088ec921667b692bdd347021b8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: YP-C_KR5i0008_06weiji-01-0001a
+    span:
+    - body
+    - 0
+    - 2313
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:e3fec47ec8ea6ace7f9079345f6945aaf1ab25adebdf0da2c24815197cac5cfe
