@@ -835,6 +835,7 @@ markers:
   - {type: line-break, offset: 2305, content: '', id: CK-KZ_KR5i0008_01p006b08}
   - {type: variant, offset: 2306, length: 1, content: 淸, YP-C: 清}
   - {type: punctuation, offset: 2311, content: (, id: KR5i0008_krp_001-bkkpn1}
+  - {type: voice, offset: 2311, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2313, content: ), id: KR5i0008_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 2313, content: '
 
@@ -844,4 +845,4 @@ markers:
 
       ', id: KR5i0008_krp_001-bkkkrnewl128}
   back: []
-hash: sha256:efde67d18cfdc7522d36491c527edade75836a4ffcc2627d29c35ff1726ebe29
+hash: sha256:88764835c642025def12db0e130d0c4950f60ab2028bd4acfac62eeb1291b011
